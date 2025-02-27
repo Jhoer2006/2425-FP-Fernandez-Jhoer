@@ -25,12 +25,12 @@ MATRIZ = [
 
 # Matriz original
 print("Matriz:")
-mostrar_matriz(MATRIZ)  # Pasamos 'MATRIZ' en mayúsculas para evitar confusión
+mostrar_matriz(MATRIZ)
 
 # Definir el valor a buscar
 valor_a_buscar = int(input("Ingrese el valor a buscar: "))
 
-# Buscar el valor en la matriz
+# Ahora este buscará el valor en la matriz
 posicion = buscar_valor(MATRIZ, valor_a_buscar)
 
 # Resultado
