@@ -1,0 +1,3 @@
+Primera nota: Aprender a manejar archivos en Python.
+Segunda nota: Practicando la lectura y escritura de archivos.
+Tercera nota: Cerrando archivos correctamente porque es muy importante.
